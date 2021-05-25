@@ -1,0 +1,5 @@
+
+#local, prod 공통 설정
+application:
+  version: 1.0.0
+  title: PaymentSystem
